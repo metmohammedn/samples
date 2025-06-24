@@ -151,7 +151,7 @@ $processedDuties = processAndSortDuties($allDuties);
             </tbody>
         </table>
 
-        <div class="footer-links">
+        <!--<div class="footer-links">
             <p>
                 To assign a new duty, please visit the 
                 <a href="http://iforecast.rf.gd/MET/CNB/ExtraDutiesEntryFormV2.php" target="_blank">Entry Form</a>.
@@ -160,7 +160,7 @@ $processedDuties = processAndSortDuties($allDuties);
                 To edit an existing duty, please visit the 
                 <a href="http://iforecast.rf.gd/MET/CNB/ExtraDutiesEditFormV2.php" target="_blank">Edit Form</a>.
             </p>
-        </div>
+        </div>-->
     </div>
 
 </body>
