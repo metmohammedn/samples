@@ -20,7 +20,7 @@ This Python script demonstrates a complete pipeline for fine-tuning a T5-base Tr
 
 ### 2. JavaScript/HTML/CSS: Plain Text to HTML Converter
 
-**File:** [`PlainTextToHTML.html`](./PlainTextToHTML.html) 
+**File:** [`html-converter`](./PlainTextToHTML.html) 
 
 This is a practical front-end utility built to solve a real workflow problem for my team. It provides a simple web form that converts plain text with paragraphs and special characters into clean, correctly encoded HTML for use in another system.
 
