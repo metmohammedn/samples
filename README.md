@@ -8,12 +8,12 @@ Thank you for the opportunity to interview for the Meteorological Developer seco
 
 **File:** [`llm_finetuning.py`](./llm_finetuning.py)
 
-This Python script demonstrates a complete pipeline for fine-tuning a T5-base Transformer model to generate weather forecasts. The goal is to automatically generate forecast text from input data.
+This Python script demonstrates a complete pipeline for fine-tuning a T5-base Transformer model to generate weather forecasts. The goal is to automatically generate forecast text from input data. Note that the entire process for fine-tuning LLMs also require several other parts like data clean-up, tokenizing and for this project, pre-processing the data for tokenizing, however, for the purpose of the interview, I have only chosen the training block.
 
 **This sample showcases:**
 * Proficiency in **Python** for scientific machine learning and data pipelines.
 * Experience developing and training sophisticated **Machine Learning models**.
-* Expertise in handling large scientific datasets and working in **Linux-based environments** with tools like PyTorch and TensorFlow.
+* Expertise in handling large scientific datasets and working with tools like PyTorch and TensorFlow.
 * A passion for **automating forecasting processes** to deliver high-value meteorological solutions.
 
 ---
@@ -36,7 +36,7 @@ This is a practical front-end utility built to solve a real workflow problem for
 
 **File:** [`notice-board`](./notice_board.php)
 
-This PHP script reads task information from a data source and dynamically generates a web-based notice board. The script includes business logic to highlight tasks that are due soon or are already completed. The refined code emphasizes security, efficiency, and modern PHP practices.
+This PHP script reads task information from a data source and dynamically generates a web-based notice board. The script includes business logic to highlight tasks that are due soon or are already completed. The refined code emphasizes security, efficiency, and modern PHP practices. Note that this is part of a whole where the entire project contains an entry form page, and an editable table for completed tasks or tasks that need to be updated. For the sake of demonstration, however, I have chosen the notice board display code only.
 
 **This sample showcases:**
 * Proficiency in back-end web development using **PHP**.
