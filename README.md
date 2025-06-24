@@ -34,7 +34,7 @@ This is a practical front-end utility built to solve a real workflow problem for
 
 ### 3. PHP: Dynamic Team Notice Board
 
-**File:** [`notice_board.php`](./notice_board.php)
+**File:** [`notice-board`](./notice_board.php)
 
 This PHP script reads task information from a data source and dynamically generates a web-based notice board. The script includes business logic to highlight tasks that are due soon or are already completed. The refined code emphasizes security, efficiency, and modern PHP practices.
 
