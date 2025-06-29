@@ -20,7 +20,7 @@ This Python script demonstrates a complete pipeline for fine-tuning a T5-base Tr
 
 ### 2. JavaScript/HTML/CSS: Plain Text to HTML Converter
 
-**File:** [`html-converter`](./index.html) 
+**File:** [`html-converter/`](./html-converter/) 
 
 This is a practical front-end utility built to solve a real workflow problem for my team. It provides a simple web form that converts plain text with paragraphs and special characters into clean, correctly encoded HTML for use in another system.
 
@@ -34,7 +34,7 @@ This is a practical front-end utility built to solve a real workflow problem for
 
 ### 3. PHP: Dynamic Team Notice Board
 
-**File:** [`notice-board`](./index.php)
+**File:** [`notice-board/`](./notice-board/)
 
 This PHP script reads task information from a data source and dynamically generates a web-based notice board. The script includes business logic to highlight tasks that are due soon or are already completed. The refined code emphasizes security, efficiency, and modern PHP practices. Note that this is part of a whole where the entire project contains an entry form page, and an editable table for completed tasks or tasks that need to be updated. For the sake of demonstration, however, I have chosen the notice board display code only.
 
